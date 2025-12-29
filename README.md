@@ -53,11 +53,11 @@ I believe in building applications that are **stable, efficient, and easy to mai
 I have contributed to and developed multiple applications across different domains.  
 **Some projects are live in production, while others were developed for private clients, internal systems, MVPs, or proof-of-concept purposes.**
 
-- ⛏ **Fintech & Mining Applications**
+- ⛏ **Fintech Mining Applications**
 - 💱 **Currency Exchange Apps**
 - 📊 **Accounting & Inventory Management Software (Web-based)**
 - ❤️ **Dating & Social Networking Apps**
-- 🎧 **Voice Chat Room App** (Partial development & feature implementation)
+- 🎧 **Voice Chat Room App**
 - 🏥 **Health & Medical Applications**
 - 💪 **Fitness & Wellness Apps**
 - 💼 **Investment & Finance Applications**
